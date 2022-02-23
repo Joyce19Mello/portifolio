@@ -1,5 +1,5 @@
 const header = {
-    homepage: 'https://Joyce19Mello.github.io/portifolio',
+    homepage: 'https://Joyce19Mello.github.io',
     title: '{ Mineira uai }',
   }
 
@@ -63,31 +63,23 @@ const header = {
           'API para controle de vagas de estacionamento utilizando Spring',
         stack: ['Java', 'Spring'],
         linkedin: 'https://www.linkedin.com/company/ciandt/mycompany/',
-        livePreview: 'www.ciandt.com'
+        livePreview: 'https://ciandt.com/br/pt-br'
     },
     {
-        name: 'Banco Next - CI&T',
+        name: 'Cadastro Ambiental Rural - ZETTA',
         description:
           'API para controle de vagas de estacionamento utilizando Spring',
-        stack: ['Java', 'Spring'],
-        linkedin: 'https://www.linkedin.com/company/ciandt/mycompany/',
-        livePreview: 'www.ciandt.com'
+        stack: ['Java', 'Play', 'AngularJS', 'VueJS', 'SQL'],
+        linkedin: 'https://www.linkedin.com/company/ag%C3%AAncia-zetta/',
+        livePreview:  'https://www.instagram.com/accounts/login/?next=/agenciazetta/'
     },
     {
-        name: 'Banco Next - CI&T',
+        name: 'Planejamento - DTI',
         description:
           'API para controle de vagas de estacionamento utilizando Spring',
-        stack: ['Java', 'Spring'],
-        linkedin: 'https://www.linkedin.com/company/ciandt/mycompany/',
-        livePreview: 'www.ciandt.com'
-    },
-    {
-        name: 'Banco Next - CI&T',
-        description:
-          'API para controle de vagas de estacionamento utilizando Spring',
-        stack: ['Java', 'Spring'],
-        linkedin: 'https://www.linkedin.com/company/ciandt/mycompany/',
-        livePreview: 'www.ciandt.com'
+        stack: ['Java', 'Spring', 'ReactJS', 'SQL'],
+        linkedin: 'https://www.linkedin.com/company/dtidigital/',
+        livePreview: 'https://www.dtidigital.com.br/'
     }
   ]
 

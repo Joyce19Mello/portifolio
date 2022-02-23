@@ -31,6 +31,18 @@ const Navbar = () => {
           </li>
         ) : null}
 
+        {experiences.length ? (
+          <li className='nav__list-item'>
+            <a
+              href='#experiences'
+              onClick={toggleNavList}
+              className='link link--nav'
+            >
+              Experiences
+            </a>
+          </li>
+        ) : null}
+
         {skills.length ? (
           <li className='nav__list-item'>
             <a
@@ -43,17 +55,7 @@ const Navbar = () => {
           </li>
         ) : null}
 
-        {experiences.length ? (
-          <li className='nav__list-item'>
-            <a
-              href='#experiences'
-              onClick={toggleNavList}
-              className='link link--nav'
-            >
-              Experiences
-            </a>
-          </li>
-        ) : null}
+
       </ul>
 
       <button

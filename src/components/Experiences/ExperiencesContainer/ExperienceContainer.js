@@ -19,20 +19,22 @@ const ExperienceContainer = ({ experience }) => (
     )}
 
     {experience.linkedin && (
-      <span
+      <a
+        target="_blank"
         href={experience.linkedin}
         aria-label='source code'
-        className='link link--icon'
+        className='link link--icon' rel="noreferrer"
       >
         <LinkedIn />
-      </span>
+      </a>
     )}
 
     {experience.livePreview && (
       <a
+        target="_blank"
         href={experience.livePreview}
         aria-label='live preview'
-        className='link link--icon'
+        className='link link--icon' rel="noreferrer"
       >
         <LaunchIcon />
       </a>

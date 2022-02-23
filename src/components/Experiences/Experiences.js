@@ -8,8 +8,10 @@ const Experiences = () => {
   if (!experiences) return null
 
   return (
-    <section className='section experience center' id='experience'>
+    <section id='experiences' className='section experiences'>
+
       <h2 className='section__title'>Experiências</h2>
+
       <div className='experience__grid'>
         {experiences.map((experience) => (
           <ExperienceContainer key={uniqid()} experience={experience} />
