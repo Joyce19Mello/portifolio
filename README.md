@@ -31,5 +31,7 @@ Seu aplicativo está pronto para ser implantado!
 Você pode aprender mais na [Documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ### Versões de tecnologias utilizadas
+
 **Node v16.7.0**
+
 **React v17.0.2**
