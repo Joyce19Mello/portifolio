@@ -58,7 +58,7 @@ const header = {
 
   const experiences = [
     {
-        name: 'CI&T {2021 - Atualmente}',
+        name: 'CI&T',
         description:
           'Atualmente trabalho com Banco Next em uma plataforma de geração de massas para facilitar os testes dos QAs',
         stack: ['Java', 'Spring'],
@@ -66,7 +66,7 @@ const header = {
         livePreview: 'https://ciandt.com/br/pt-br'
     },
     {
-        name: 'AGÊNCIA-ZETTA {2017-2020}',
+        name: 'AGÊNCIA-ZETTA',
         description:
           'Atuei em projetos como Cadastro Ambiental Rural, Carteira de Pesca, Fiscalização ambiental entre outros ',
         stack: ['Java', 'Play', 'AngularJS', 'VueJS', 'SQL'],
@@ -74,7 +74,7 @@ const header = {
         livePreview:  'https://www.instagram.com/accounts/login/?next=/agenciazetta/'
     },
     {
-        name: 'DTI-DIGITAL {2021}',
+        name: 'DTI-DIGITAL',
         description:
           'Atuei em projetos da Vale de controles de mina e controle de operações.',
         stack: ['Java', 'Spring', 'ReactJS', 'SQL'],
