@@ -1,5 +1,5 @@
 const header = {
-    homepage: 'https://Joyce19Mello.github.io',
+    homepage: 'https://portifolio-joyce.netlify.app/',
     title: '{ Mineira uai }',
   }
 
