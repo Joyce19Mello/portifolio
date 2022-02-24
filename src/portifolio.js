@@ -58,25 +58,25 @@ const header = {
 
   const experiences = [
     {
-        name: 'CI&T',
+        name: 'CI&T {2021 - Atualmente}',
         description:
-          '- Atualmente trabalho com Banco Next em uma plataforma de geração de massas para facilitar os testes dos QAs',
+          'Atualmente trabalho com Banco Next em uma plataforma de geração de massas para facilitar os testes dos QAs',
         stack: ['Java', 'Spring'],
         linkedin: 'https://www.linkedin.com/company/ciandt/mycompany/',
         livePreview: 'https://ciandt.com/br/pt-br'
     },
     {
-        name: 'AGÊNCIA-ZETTA',
+        name: 'AGÊNCIA-ZETTA {2017-2020}',
         description:
-          '- Atuei em projetos como Cadastro Ambiental Rural, Carteira de Pesca, Fiscalização ambiental entre outros ',
+          'Atuei em projetos como Cadastro Ambiental Rural, Carteira de Pesca, Fiscalização ambiental entre outros ',
         stack: ['Java', 'Play', 'AngularJS', 'VueJS', 'SQL'],
         linkedin: 'https://www.linkedin.com/company/ag%C3%AAncia-zetta/',
         livePreview:  'https://www.instagram.com/accounts/login/?next=/agenciazetta/'
     },
     {
-        name: 'DTI-DIGITAL',
+        name: 'DTI-DIGITAL {2021}',
         description:
-          '- Atuei em projetos da Vale de controles de mina e controle de operações.',
+          'Atuei em projetos da Vale de controles de mina e controle de operações.',
         stack: ['Java', 'Spring', 'ReactJS', 'SQL'],
         linkedin: 'https://www.linkedin.com/company/dtidigital/',
         livePreview: 'https://www.dtidigital.com.br/'
